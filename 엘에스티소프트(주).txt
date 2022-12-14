@@ -1,0 +1,42 @@
+사람인 엘에스티소프트(주) 정보
+https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40027269&recommend_ids=eJxNj8sRAzEMQqvJHX0Q1jmFuP8u4tl4vD4yPCFIGMrCJ5sffaOrouBTWUsmzBCjl%2FuXoGRjsuyBm5HQlguOkMWBzXzwjUJRxOumlV9wwMt2jVvOfF4NR3ld1wzTweEkXxfQkK5s9%2BCW0eqi51wzd68UrokDaj9wG31FnREZ%2Brf%2BAaZRQ%2BM%3D&view_type=search&searchword=%EC%97%98%EC%97%90%EC%8A%A4%ED%8B%B0%EC%86%8C%ED%94%84%ED%8A%B8&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0
+
+사원 6명이고 파견업무는 없습니다. 서울 가산디지털단지에 위치하고 사무실은 깔끔합니다.
+
+오자마자 바로 시험칩니다.
+
+엘에스티소프트(주) 시험지입니다. 20분 주고 문제는 총 10문제 정도 됩니다
+
+api 이름( servlet,  mybatis 등)
+
+tomcat deployment 폴더 이름 - tomcat\webapps
+
+test 어노테이션 종류(
+답 : 
+@Test
+@Ignore
+@Before
+@After
+@BeforeClass
+@AfterClass
+)
+
+테이블 데이터를 주고
+db select insert update delete 사용법
+join outer join 활용
+
+자바 데이터 타입 종류별로 임의로 만들어서
+메인메소드로 출력
+
+interface 활용, 상속할줄 아는지
+
+for문과 if문 활용
+(1~100에서
+짝수거나 5의 배수를 모두 더하기)
+
+마지막 문제는 시간부족으로 구경도 못했습니다...
+
+3년간 같은 시험지를 사용했다고 합니다.
+
+코딩은 기본만 되고 회사끝나고 저녁반 훈련도 받을 열정만 있으면 뽑는다고 합니다.
+
